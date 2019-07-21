@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FinalProjectBullin</string>
+    <string-array name="CoffeeTypes">
+        <item>Railhead Espresso</item>
+        <item>Shape Shifter</item>
+        <item>Columbia Santana</item>
+        <item>House Blend</item>
+    </string-array>
+</resources>
